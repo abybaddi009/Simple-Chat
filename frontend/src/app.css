@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'OldStandard';
+  src: local('OldStandard'), url(./assets/fonts/OldStandardTT-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'OldStandard';
+    font-weight: 900;
+    src: local('OldStandard'), url(./assets/fonts/OldStandardTT-Bold.ttf) format('truetype');
+}
